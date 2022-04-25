@@ -1,7 +1,5 @@
 # micropython
 micropython modules for espboards
-# MicroPython2
-micropython proyects
 # Basics Micropython modules for embedded systems
 micropython modules for espboards
 
