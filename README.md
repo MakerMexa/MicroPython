@@ -19,4 +19,7 @@ in second time i tried with wemos D1 mini:
 ![image](https://user-images.githubusercontent.com/89045226/165021023-3abc46f9-d43a-461a-8eb0-8a938e734fd1.png)
 
 i was load the same firmware and it works ok, we must see this window when go clic in files:
+as you see all codes in computer 
 ![image](https://user-images.githubusercontent.com/89045226/165021318-56b3f741-7768-4bb5-bf27-69e4a49fbeaf.png)
+
+then can start to code firts we must save our code:
